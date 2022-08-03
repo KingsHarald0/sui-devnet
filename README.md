@@ -25,7 +25,7 @@ wget -O sui.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/sui/s
 ```
  # güncelleme
 ```
-wget -q -O update.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/sui/tools/update.sh && chmod +x update.sh && ./update.sh
+wget -qO update.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/sui/tools/update.sh && chmod +x update.sh && ./update.sh
 ```
 
 # Logları kontrol ve işlem bu kadar
